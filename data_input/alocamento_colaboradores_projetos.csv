@@ -1,0 +1,484 @@
+col_matricula,col_cargo,col_setor,col_classe,pro_number,horas_alocadas,col_custo
+MA5099,Engenheiro de Dados,Engenheiro,Junior,PR23,15,83
+MA5099,Engenheiro de Dados,Engenheiro,Junior,PR13,16,83
+MA5099,Engenheiro de Dados,Engenheiro,Junior,PR11,19,83
+MA5099,Engenheiro de Dados,Engenheiro,Junior,PR20,32,83
+MA9472,Analista de Dados,Analista,Especialista,PR35,17,69
+MA3873,Engenheiro de Dados,Engenheiro,Junior,PR35,24,87
+MA3873,Engenheiro de Dados,Engenheiro,Junior,PR21,11,87
+MA3873,Engenheiro de Dados,Engenheiro,Junior,PR9,29,87
+MA6463,Engenheiro de Dados,Engenheiro,Senior,PR12,26,91
+MA6463,Engenheiro de Dados,Engenheiro,Senior,PR20,40,91
+MA6463,Engenheiro de Dados,Engenheiro,Senior,PR29,37,91
+MA6463,Engenheiro de Dados,Engenheiro,Senior,PR18,21,91
+MA2834,Engenheiro de Machine Learning,EML,Pleno,PR31,10,123
+MA3828,Cientista de Dados,Cientista,Junior,PR19,20,54
+MA3828,Cientista de Dados,Cientista,Junior,PR40,16,54
+MA4774,Engenheiro de Dados,Engenheiro,Junior,PR25,24,96
+MA4774,Engenheiro de Dados,Engenheiro,Junior,PR21,32,96
+MA4774,Engenheiro de Dados,Engenheiro,Junior,PR32,27,96
+MA1001,Engenheiro de Dados,Engenheiro,Junior,PR26,10,102
+MA8704,Cientista de Dados,Cientista,Pleno,PR26,20,58
+MA8704,Cientista de Dados,Cientista,Pleno,PR7,23,58
+MA8704,Cientista de Dados,Cientista,Pleno,PR21,15,58
+MA5771,Engenheiro de Dados,Engenheiro,Pleno,PR28,14,96
+MA2709,Engenheiro de Dados,Engenheiro,Tech Lead,PR7,10,99
+MA9394,Cientista de Dados,Cientista,Junior,PR25,11,64
+MA7995,Cientista de Dados,Cientista,Senior,PR25,17,102
+MA7995,Cientista de Dados,Cientista,Senior,PR15,16,102
+MA7995,Cientista de Dados,Cientista,Senior,PR34,36,102
+MA3027,Cientista de Dados,Cientista,Pleno,PR32,18,102
+MA3027,Cientista de Dados,Cientista,Pleno,PR13,18,102
+MA3027,Cientista de Dados,Cientista,Pleno,PR18,21,102
+MA9253,Engenheiro de Machine Learning,EML,Junior,PR13,10,93
+MA9253,Engenheiro de Machine Learning,EML,Junior,PR36,30,93
+MA8437,Analista de Dados,Analista,Pleno,PR18,11,111
+MA8437,Analista de Dados,Analista,Pleno,PR17,24,111
+MA8437,Analista de Dados,Analista,Pleno,PR32,26,111
+MA8437,Analista de Dados,Analista,Pleno,PR12,11,111
+MA5274,Engenheiro de Dados,Engenheiro,Pleno,PR19,10,104
+MA5274,Engenheiro de Dados,Engenheiro,Pleno,PR40,19,104
+MA5274,Engenheiro de Dados,Engenheiro,Pleno,PR22,20,104
+MA5444,Cientista de Dados,Cientista,Junior,PR2,21,53
+MA5444,Cientista de Dados,Cientista,Junior,PR36,13,53
+MA9670,Analista de Dados,Analista,Pleno,PR15,18,56
+MA9670,Analista de Dados,Analista,Pleno,PR10,20,56
+MA9670,Analista de Dados,Analista,Pleno,PR20,22,56
+MA9670,Analista de Dados,Analista,Pleno,PR17,17,56
+MA5928,Engenheiro de Dados,Engenheiro,Junior,PR35,25,100
+MA5928,Engenheiro de Dados,Engenheiro,Junior,PR4,29,100
+MA3124,Engenheiro de Dados,Engenheiro,Pleno,PR27,11,93
+MA1708,Engenheiro de Machine Learning,EML,Pleno,PR40,10,48
+MA1708,Engenheiro de Machine Learning,EML,Pleno,PR23,12,48
+MA1708,Engenheiro de Machine Learning,EML,Pleno,PR29,14,48
+MA1708,Engenheiro de Machine Learning,EML,Pleno,PR7,18,48
+MA6524,Engenheiro de Dados,Engenheiro,Senior,PR10,16,99
+MA6524,Engenheiro de Dados,Engenheiro,Senior,PR18,39,99
+MA6524,Engenheiro de Dados,Engenheiro,Senior,PR22,15,99
+MA1779,Engenheiro de Machine Learning,EML,Junior,PR18,38,112
+MA1779,Engenheiro de Machine Learning,EML,Junior,PR23,24,112
+MA1779,Engenheiro de Machine Learning,EML,Junior,PR26,11,112
+MA5577,Analista de Dados,Analista,Senior,PR21,29,134
+MA7851,Cientista de Dados,Cientista,Pleno,PR34,23,70
+MA8854,Cientista de Dados,Cientista,Pleno,PR18,15,47
+MA5911,Cientista de Dados,Cientista,Junior,PR7,31,87
+MA5911,Cientista de Dados,Cientista,Junior,PR21,23,87
+MA5911,Cientista de Dados,Cientista,Junior,PR40,10,87
+MA5911,Cientista de Dados,Cientista,Junior,PR29,25,87
+MA2675,Engenheiro de Machine Learning,EML,Pleno,PR14,21,82
+MA2675,Engenheiro de Machine Learning,EML,Pleno,PR37,26,82
+MA2675,Engenheiro de Machine Learning,EML,Pleno,PR25,21,82
+MA9859,Engenheiro de Machine Learning,EML,Especialista,PR3,12,110
+MA9859,Engenheiro de Machine Learning,EML,Especialista,PR37,11,110
+MA9859,Engenheiro de Machine Learning,EML,Especialista,PR7,21,110
+MA9859,Engenheiro de Machine Learning,EML,Especialista,PR21,30,110
+MA6017,Engenheiro de Dados,Engenheiro,Senior,PR15,14,126
+MA6017,Engenheiro de Dados,Engenheiro,Senior,PR2,12,126
+MA3497,Engenheiro de Machine Learning,EML,Junior,PR22,19,87
+MA3497,Engenheiro de Machine Learning,EML,Junior,PR25,26,87
+MA3497,Engenheiro de Machine Learning,EML,Junior,PR33,21,87
+MA1314,Engenheiro de Dados,Engenheiro,Junior,PR22,14,82
+MA1314,Engenheiro de Dados,Engenheiro,Junior,PR40,18,82
+MA4665,Engenheiro de Dados,Engenheiro,Senior,PR11,13,125
+MA4401,Analista de Dados,Analista,Pleno,PR21,24,117
+MA4401,Analista de Dados,Analista,Pleno,PR7,19,117
+MA4401,Analista de Dados,Analista,Pleno,PR23,14,117
+MA9707,Engenheiro de Dados,Engenheiro,Pleno,PR11,30,103
+MA9707,Engenheiro de Dados,Engenheiro,Pleno,PR26,21,103
+MA6103,Analista de Dados,Analista,Senior,PR25,11,77
+MA6103,Analista de Dados,Analista,Senior,PR25,28,77
+MA6103,Analista de Dados,Analista,Senior,PR31,18,77
+MA8926,Engenheiro de Dados,Engenheiro,Pleno,PR40,15,126
+MA5131,Analista de Dados,Analista,Junior,PR16,12,86
+MA5131,Analista de Dados,Analista,Junior,PR29,19,86
+MA5131,Analista de Dados,Analista,Junior,PR25,11,86
+MA5131,Analista de Dados,Analista,Junior,PR29,10,86
+MA5736,Analista de Dados,Analista,Junior,PR25,27,41
+MA5736,Analista de Dados,Analista,Junior,PR7,24,41
+MA5736,Analista de Dados,Analista,Junior,PR27,10,41
+MA5748,Engenheiro de Dados,Engenheiro,Junior,PR22,15,54
+MA8254,Cientista de Dados,Cientista,Pleno,PR36,19,64
+MA8486,Engenheiro de Dados,Engenheiro,Junior,PR13,16,90
+MA8486,Engenheiro de Dados,Engenheiro,Junior,PR8,16,90
+MA5282,Cientista de Dados,Cientista,Pleno,PR21,16,127
+MA5282,Cientista de Dados,Cientista,Pleno,PR4,21,127
+MA5282,Cientista de Dados,Cientista,Pleno,PR16,10,127
+MA7683,Cientista de Dados,Cientista,Tech Lead,PR24,27,89
+MA7683,Cientista de Dados,Cientista,Tech Lead,PR24,14,89
+MA7683,Cientista de Dados,Cientista,Tech Lead,PR11,29,89
+MA7683,Cientista de Dados,Cientista,Tech Lead,PR2,13,89
+MA7241,Engenheiro de Dados,Engenheiro,Junior,PR25,32,107
+MA7241,Engenheiro de Dados,Engenheiro,Junior,PR33,13,107
+MA7241,Engenheiro de Dados,Engenheiro,Junior,PR13,14,107
+MA7241,Engenheiro de Dados,Engenheiro,Junior,PR27,12,107
+MA7258,Engenheiro de Dados,Engenheiro,Pleno,PR37,26,45
+MA7258,Engenheiro de Dados,Engenheiro,Pleno,PR13,33,45
+MA7258,Engenheiro de Dados,Engenheiro,Pleno,PR14,10,45
+MA4775,Analista de Dados,Analista,Pleno,PR36,18,52
+MA4775,Analista de Dados,Analista,Pleno,PR11,15,52
+MA4775,Analista de Dados,Analista,Pleno,PR1,25,52
+MA8381,Engenheiro de Machine Learning,EML,Senior,PR12,17,115
+MA8381,Engenheiro de Machine Learning,EML,Senior,PR17,11,115
+MA8381,Engenheiro de Machine Learning,EML,Senior,PR12,10,115
+MA8381,Engenheiro de Machine Learning,EML,Senior,PR14,17,115
+MA7985,Engenheiro de Dados,Engenheiro,Pleno,PR10,12,63
+MA9563,Engenheiro de Dados,Engenheiro,Junior,PR17,28,63
+MA9563,Engenheiro de Dados,Engenheiro,Junior,PR29,10,63
+MA6641,Engenheiro de Machine Learning,EML,Junior,PR40,15,91
+MA1298,Engenheiro de Dados,Engenheiro,Senior,PR16,32,131
+MA1298,Engenheiro de Dados,Engenheiro,Senior,PR40,20,131
+MA1298,Engenheiro de Dados,Engenheiro,Senior,PR24,11,131
+MA1298,Engenheiro de Dados,Engenheiro,Senior,PR27,20,131
+MA7608,Cientista de Dados,Cientista,Pleno,PR15,11,73
+MA7608,Cientista de Dados,Cientista,Pleno,PR25,11,73
+MA7608,Cientista de Dados,Cientista,Pleno,PR22,23,73
+MA7608,Cientista de Dados,Cientista,Pleno,PR32,28,73
+MA7981,Engenheiro de Dados,Engenheiro,Senior,PR14,16,113
+MA7981,Engenheiro de Dados,Engenheiro,Senior,PR14,14,113
+MA7981,Engenheiro de Dados,Engenheiro,Senior,PR15,24,113
+MA3593,Analista de Dados,Analista,Pleno,PR34,14,121
+MA3593,Analista de Dados,Analista,Pleno,PR13,16,121
+MA7081,Engenheiro de Dados,Engenheiro,Junior,PR19,11,53
+MA2803,Analista de Dados,Analista,Pleno,PR27,11,100
+MA2803,Analista de Dados,Analista,Pleno,PR10,28,100
+MA4413,Analista de Dados,Analista,Junior,PR37,25,82
+MA4413,Analista de Dados,Analista,Junior,PR4,19,82
+MA3529,Cientista de Dados,Cientista,Senior,PR15,17,94
+MA3529,Cientista de Dados,Cientista,Senior,PR13,16,94
+MA3529,Cientista de Dados,Cientista,Senior,PR1,13,94
+MA3529,Cientista de Dados,Cientista,Senior,PR11,15,94
+MA1029,Cientista de Dados,Cientista,Pleno,PR8,19,100
+MA1029,Cientista de Dados,Cientista,Pleno,PR12,11,100
+MA1029,Cientista de Dados,Cientista,Pleno,PR20,26,100
+MA9542,Cientista de Dados,Cientista,Pleno,PR38,10,66
+MA9542,Cientista de Dados,Cientista,Pleno,PR20,38,66
+MA9542,Cientista de Dados,Cientista,Pleno,PR32,18,66
+MA8060,Cientista de Dados,Cientista,Pleno,PR26,14,80
+MA8060,Cientista de Dados,Cientista,Pleno,PR3,35,80
+MA8060,Cientista de Dados,Cientista,Pleno,PR37,35,80
+MA8060,Cientista de Dados,Cientista,Pleno,PR40,17,80
+MA6609,Engenheiro de Dados,Engenheiro,Pleno,PR35,21,63
+MA6609,Engenheiro de Dados,Engenheiro,Pleno,PR34,13,63
+MA6609,Engenheiro de Dados,Engenheiro,Pleno,PR13,11,63
+MA7140,Engenheiro de Dados,Engenheiro,Pleno,PR14,17,117
+MA1520,Cientista de Dados,Cientista,Junior,PR2,12,81
+MA1520,Cientista de Dados,Cientista,Junior,PR14,24,81
+MA1520,Cientista de Dados,Cientista,Junior,PR34,11,81
+MA1520,Cientista de Dados,Cientista,Junior,PR28,24,81
+MA2591,Analista de Dados,Analista,Junior,PR34,22,56
+MA2591,Analista de Dados,Analista,Junior,PR22,14,56
+MA1494,Cientista de Dados,Cientista,Especialista,PR13,11,75
+MA4757,Engenheiro de Dados,Engenheiro,Junior,PR18,11,40
+MA4757,Engenheiro de Dados,Engenheiro,Junior,PR39,15,40
+MA7919,Cientista de Dados,Cientista,Junior,PR40,33,60
+MA7919,Cientista de Dados,Cientista,Junior,PR23,12,60
+MA7919,Cientista de Dados,Cientista,Junior,PR22,30,60
+MA4177,Cientista de Dados,Cientista,Pleno,PR2,29,43
+MA4177,Cientista de Dados,Cientista,Pleno,PR25,23,43
+MA4177,Cientista de Dados,Cientista,Pleno,PR20,23,43
+MA4177,Cientista de Dados,Cientista,Pleno,PR26,17,43
+MA1088,Analista de Dados,Analista,Pleno,PR18,18,118
+MA9987,Cientista de Dados,Cientista,Pleno,PR25,13,61
+MA9987,Cientista de Dados,Cientista,Pleno,PR27,13,61
+MA9987,Cientista de Dados,Cientista,Pleno,PR9,31,61
+MA6718,Analista de Dados,Analista,Junior,PR11,15,33
+MA6718,Analista de Dados,Analista,Junior,PR23,21,33
+MA8746,Engenheiro de Machine Learning,EML,Senior,PR36,16,122
+MA8746,Engenheiro de Machine Learning,EML,Senior,PR20,17,122
+MA8746,Engenheiro de Machine Learning,EML,Senior,PR14,14,122
+MA4200,Cientista de Dados,Cientista,Tech Lead,PR2,15,127
+MA4200,Cientista de Dados,Cientista,Tech Lead,PR3,16,127
+MA4200,Cientista de Dados,Cientista,Tech Lead,PR15,16,127
+MA4200,Cientista de Dados,Cientista,Tech Lead,PR14,16,127
+MA5167,Cientista de Dados,Cientista,Senior,PR14,19,112
+MA5167,Cientista de Dados,Cientista,Senior,PR5,24,112
+MA5167,Cientista de Dados,Cientista,Senior,PR1,21,112
+MA5167,Cientista de Dados,Cientista,Senior,PR3,17,112
+MA6216,Engenheiro de Dados,Engenheiro,Especialista,PR12,34,143
+MA6216,Engenheiro de Dados,Engenheiro,Especialista,PR4,13,143
+MA6216,Engenheiro de Dados,Engenheiro,Especialista,PR24,21,143
+MA3944,Cientista de Dados,Cientista,Junior,PR2,15,108
+MA3944,Cientista de Dados,Cientista,Junior,PR39,14,108
+MA3944,Cientista de Dados,Cientista,Junior,PR3,13,108
+MA5437,Engenheiro de Machine Learning,EML,Pleno,PR15,11,80
+MA2194,Engenheiro de Dados,Engenheiro,Pleno,PR26,27,123
+MA2194,Engenheiro de Dados,Engenheiro,Pleno,PR5,19,123
+MA4909,Analista de Dados,Analista,Senior,PR26,22,81
+MA8788,Engenheiro de Machine Learning,EML,Especialista,PR3,17,135
+MA2392,Engenheiro de Dados,Engenheiro,Pleno,PR15,11,45
+MA2392,Engenheiro de Dados,Engenheiro,Pleno,PR11,12,45
+MA5153,Engenheiro de Dados,Engenheiro,Pleno,PR20,23,43
+MA5153,Engenheiro de Dados,Engenheiro,Pleno,PR15,19,43
+MA5153,Engenheiro de Dados,Engenheiro,Pleno,PR14,15,43
+MA5153,Engenheiro de Dados,Engenheiro,Pleno,PR22,33,43
+MA5823,Cientista de Dados,Cientista,Pleno,PR20,37,112
+MA5823,Cientista de Dados,Cientista,Pleno,PR22,11,112
+MA5823,Cientista de Dados,Cientista,Pleno,PR26,36,112
+MA5823,Cientista de Dados,Cientista,Pleno,PR3,13,112
+MA8492,Analista de Dados,Analista,Pleno,PR2,17,113
+MA3838,Engenheiro de Machine Learning,EML,Tech Lead,PR36,14,159
+MA3838,Engenheiro de Machine Learning,EML,Tech Lead,PR16,13,159
+MA1440,Cientista de Dados,Cientista,Especialista,PR5,16,128
+MA1440,Cientista de Dados,Cientista,Especialista,PR19,20,128
+MA2246,Engenheiro de Dados,Engenheiro,Junior,PR21,12,46
+MA2246,Engenheiro de Dados,Engenheiro,Junior,PR14,29,46
+MA2722,Cientista de Dados,Cientista,Junior,PR15,21,59
+MA2722,Cientista de Dados,Cientista,Junior,PR15,20,59
+MA5576,Engenheiro de Dados,Engenheiro,Pleno,PR39,10,98
+MA5576,Engenheiro de Dados,Engenheiro,Pleno,PR21,10,98
+MA5576,Engenheiro de Dados,Engenheiro,Pleno,PR39,15,98
+MA6450,Cientista de Dados,Cientista,Junior,PR27,26,65
+MA6450,Cientista de Dados,Cientista,Junior,PR13,25,65
+MA2626,Engenheiro de Dados,Engenheiro,Senior,PR27,16,54
+MA2626,Engenheiro de Dados,Engenheiro,Senior,PR24,15,54
+MA2626,Engenheiro de Dados,Engenheiro,Senior,PR7,33,54
+MA1326,Engenheiro de Dados,Engenheiro,Junior,PR5,18,116
+MA3713,Engenheiro de Dados,Engenheiro,Junior,PR21,31,36
+MA3534,Analista de Dados,Analista,Junior,PR6,25,77
+MA7576,Engenheiro de Dados,Engenheiro,Junior,PR20,20,111
+MA7576,Engenheiro de Dados,Engenheiro,Junior,PR37,29,111
+MA7576,Engenheiro de Dados,Engenheiro,Junior,PR12,11,111
+MA7576,Engenheiro de Dados,Engenheiro,Junior,PR23,18,111
+MA7710,Cientista de Dados,Cientista,Pleno,PR26,31,68
+MA7710,Cientista de Dados,Cientista,Pleno,PR32,14,68
+MA8864,Engenheiro de Dados,Engenheiro,Especialista,PR10,29,123
+MA8864,Engenheiro de Dados,Engenheiro,Especialista,PR28,26,123
+MA8864,Engenheiro de Dados,Engenheiro,Especialista,PR13,37,123
+MA4734,Engenheiro de Dados,Engenheiro,Pleno,PR15,17,73
+MA4734,Engenheiro de Dados,Engenheiro,Pleno,PR25,13,73
+MA4734,Engenheiro de Dados,Engenheiro,Pleno,PR21,25,73
+MA2221,Engenheiro de Dados,Engenheiro,Junior,PR32,25,102
+MA2221,Engenheiro de Dados,Engenheiro,Junior,PR27,12,102
+MA2221,Engenheiro de Dados,Engenheiro,Junior,PR26,27,102
+MA5636,Engenheiro de Dados,Engenheiro,Pleno,PR19,34,113
+MA5636,Engenheiro de Dados,Engenheiro,Pleno,PR1,27,113
+MA1621,Engenheiro de Machine Learning,EML,Junior,PR33,22,77
+MA6208,Engenheiro de Dados,Engenheiro,Especialista,PR11,20,143
+MA6208,Engenheiro de Dados,Engenheiro,Especialista,PR6,31,143
+MA6601,Analista de Dados,Analista,Senior,PR4,23,130
+MA3620,Analista de Dados,Analista,Pleno,PR6,11,117
+MA3620,Analista de Dados,Analista,Pleno,PR39,12,117
+MA6800,Cientista de Dados,Cientista,Senior,PR32,34,100
+MA6800,Cientista de Dados,Cientista,Senior,PR16,25,100
+MA6800,Cientista de Dados,Cientista,Senior,PR39,28,100
+MA1189,Engenheiro de Dados,Engenheiro,Senior,PR36,32,61
+MA1189,Engenheiro de Dados,Engenheiro,Senior,PR8,23,61
+MA1189,Engenheiro de Dados,Engenheiro,Senior,PR12,20,61
+MA1189,Engenheiro de Dados,Engenheiro,Senior,PR32,22,61
+MA1286,Analista de Dados,Analista,Pleno,PR34,21,113
+MA1286,Analista de Dados,Analista,Pleno,PR29,19,113
+MA6423,Engenheiro de Dados,Engenheiro,Pleno,PR23,21,125
+MA6120,Analista de Dados,Analista,Tech Lead,PR15,11,84
+MA8185,Analista de Dados,Analista,Pleno,PR25,15,85
+MA8185,Analista de Dados,Analista,Pleno,PR15,20,85
+MA8185,Analista de Dados,Analista,Pleno,PR15,19,85
+MA8185,Analista de Dados,Analista,Pleno,PR25,16,85
+MA2846,Cientista de Dados,Cientista,Junior,PR39,16,37
+MA2846,Cientista de Dados,Cientista,Junior,PR14,36,37
+MA5439,Cientista de Dados,Cientista,Junior,PR26,40,76
+MA5439,Cientista de Dados,Cientista,Junior,PR31,14,76
+MA5439,Cientista de Dados,Cientista,Junior,PR29,24,76
+MA5439,Cientista de Dados,Cientista,Junior,PR21,35,76
+MA2472,Engenheiro de Dados,Engenheiro,Pleno,PR38,26,126
+MA2472,Engenheiro de Dados,Engenheiro,Pleno,PR29,16,126
+MA2472,Engenheiro de Dados,Engenheiro,Pleno,PR3,26,126
+MA2472,Engenheiro de Dados,Engenheiro,Pleno,PR21,36,126
+MA1595,Engenheiro de Machine Learning,EML,Junior,PR4,11,86
+MA1595,Engenheiro de Machine Learning,EML,Junior,PR27,12,86
+MA8462,Cientista de Dados,Cientista,Senior,PR7,10,123
+MA8462,Cientista de Dados,Cientista,Senior,PR26,19,123
+MA8462,Cientista de Dados,Cientista,Senior,PR39,36,123
+MA5746,Engenheiro de Dados,Engenheiro,Pleno,PR15,22,124
+MA6560,Engenheiro de Dados,Engenheiro,Pleno,PR27,12,120
+MA1598,Cientista de Dados,Cientista,Senior,PR32,19,128
+MA2688,Engenheiro de Dados,Engenheiro,Pleno,PR34,25,89
+MA2688,Engenheiro de Dados,Engenheiro,Pleno,PR2,15,89
+MA2154,Analista de Dados,Analista,Especialista,PR14,14,60
+MA8306,Cientista de Dados,Cientista,Pleno,PR20,24,114
+MA8306,Cientista de Dados,Cientista,Pleno,PR28,24,114
+MA8306,Cientista de Dados,Cientista,Pleno,PR28,22,114
+MA6737,Cientista de Dados,Cientista,Pleno,PR12,10,121
+MA6737,Cientista de Dados,Cientista,Pleno,PR27,19,121
+MA6737,Cientista de Dados,Cientista,Pleno,PR4,20,121
+MA6737,Cientista de Dados,Cientista,Pleno,PR38,36,121
+MA5390,Cientista de Dados,Cientista,Pleno,PR14,28,125
+MA5390,Cientista de Dados,Cientista,Pleno,PR2,11,125
+MA2983,Engenheiro de Dados,Engenheiro,Pleno,PR33,12,78
+MA2983,Engenheiro de Dados,Engenheiro,Pleno,PR39,15,78
+MA2983,Engenheiro de Dados,Engenheiro,Pleno,PR34,12,78
+MA2983,Engenheiro de Dados,Engenheiro,Pleno,PR13,17,78
+MA7933,Cientista de Dados,Cientista,Pleno,PR1,10,75
+MA7933,Cientista de Dados,Cientista,Pleno,PR34,19,75
+MA7933,Cientista de Dados,Cientista,Pleno,PR18,10,75
+MA7933,Cientista de Dados,Cientista,Pleno,PR12,12,75
+MA3259,Analista de Dados,Analista,Pleno,PR10,16,54
+MA3259,Analista de Dados,Analista,Pleno,PR40,14,54
+MA2365,Analista de Dados,Analista,Junior,PR35,20,96
+MA2365,Analista de Dados,Analista,Junior,PR16,13,96
+MA2365,Analista de Dados,Analista,Junior,PR21,30,96
+MA2365,Analista de Dados,Analista,Junior,PR15,19,96
+MA9740,Analista de Dados,Analista,Junior,PR22,20,108
+MA9740,Analista de Dados,Analista,Junior,PR23,26,108
+MA9196,Engenheiro de Dados,Engenheiro,Senior,PR15,21,111
+MA9747,Cientista de Dados,Cientista,Junior,PR25,14,51
+MA9747,Cientista de Dados,Cientista,Junior,PR13,10,51
+MA9747,Cientista de Dados,Cientista,Junior,PR37,25,51
+MA5918,Cientista de Dados,Cientista,Pleno,PR13,11,63
+MA5223,Cientista de Dados,Cientista,Junior,PR29,10,38
+MA4938,Engenheiro de Dados,Engenheiro,Senior,PR3,27,117
+MA4938,Engenheiro de Dados,Engenheiro,Senior,PR32,21,117
+MA7037,Engenheiro de Machine Learning,EML,Pleno,PR14,27,44
+MA8868,Engenheiro de Machine Learning,EML,Pleno,PR14,31,53
+MA8868,Engenheiro de Machine Learning,EML,Pleno,PR12,25,53
+MA3480,Cientista de Dados,Cientista,Pleno,PR4,26,120
+MA3480,Cientista de Dados,Cientista,Pleno,PR40,38,120
+MA7542,Engenheiro de Dados,Engenheiro,Tech Lead,PR1,19,159
+MA7542,Engenheiro de Dados,Engenheiro,Tech Lead,PR14,16,159
+MA5490,Cientista de Dados,Cientista,Pleno,PR32,14,108
+MA5490,Cientista de Dados,Cientista,Pleno,PR22,35,108
+MA5490,Cientista de Dados,Cientista,Pleno,PR28,21,108
+MA6948,Engenheiro de Dados,Engenheiro,Tech Lead,PR40,14,148
+MA6948,Engenheiro de Dados,Engenheiro,Tech Lead,PR15,30,148
+MA7743,Analista de Dados,Analista,Senior,PR3,12,61
+MA4329,Engenheiro de Dados,Engenheiro,Junior,PR20,18,73
+MA4329,Engenheiro de Dados,Engenheiro,Junior,PR15,16,73
+MA4329,Engenheiro de Dados,Engenheiro,Junior,PR31,22,73
+MA4329,Engenheiro de Dados,Engenheiro,Junior,PR25,29,73
+MA1474,Engenheiro de Dados,Engenheiro,Senior,PR22,32,91
+MA1474,Engenheiro de Dados,Engenheiro,Senior,PR22,17,91
+MA1474,Engenheiro de Dados,Engenheiro,Senior,PR25,23,91
+MA8642,Engenheiro de Dados,Engenheiro,Junior,PR2,19,82
+MA8642,Engenheiro de Dados,Engenheiro,Junior,PR21,17,82
+MA9232,Engenheiro de Machine Learning,EML,Junior,PR20,16,68
+MA9232,Engenheiro de Machine Learning,EML,Junior,PR14,16,68
+MA3209,Engenheiro de Dados,Engenheiro,Senior,PR36,13,96
+MA3209,Engenheiro de Dados,Engenheiro,Senior,PR8,14,96
+MA3209,Engenheiro de Dados,Engenheiro,Senior,PR37,20,96
+MA3209,Engenheiro de Dados,Engenheiro,Senior,PR34,11,96
+MA9094,Engenheiro de Dados,Engenheiro,Pleno,PR13,15,86
+MA9094,Engenheiro de Dados,Engenheiro,Pleno,PR36,14,86
+MA9094,Engenheiro de Dados,Engenheiro,Pleno,PR40,13,86
+MA4080,Engenheiro de Machine Learning,EML,Pleno,PR20,14,105
+MA4080,Engenheiro de Machine Learning,EML,Pleno,PR24,13,105
+MA4080,Engenheiro de Machine Learning,EML,Pleno,PR27,12,105
+MA9503,Cientista de Dados,Cientista,Especialista,PR1,25,78
+MA9700,Cientista de Dados,Cientista,Especialista,PR4,30,126
+MA6871,Engenheiro de Dados,Engenheiro,Pleno,PR3,12,40
+MA6871,Engenheiro de Dados,Engenheiro,Pleno,PR21,18,40
+MA7699,Analista de Dados,Analista,Senior,PR6,14,90
+MA7699,Analista de Dados,Analista,Senior,PR12,11,90
+MA7045,Engenheiro de Dados,Engenheiro,Pleno,PR18,16,54
+MA7045,Engenheiro de Dados,Engenheiro,Pleno,PR20,19,54
+MA7045,Engenheiro de Dados,Engenheiro,Pleno,PR18,31,54
+MA3260,Engenheiro de Dados,Engenheiro,Pleno,PR4,16,65
+MA3260,Engenheiro de Dados,Engenheiro,Pleno,PR22,22,65
+MA3260,Engenheiro de Dados,Engenheiro,Pleno,PR21,11,65
+MA3260,Engenheiro de Dados,Engenheiro,Pleno,PR19,17,65
+MA1588,Engenheiro de Machine Learning,EML,Pleno,PR22,30,73
+MA1588,Engenheiro de Machine Learning,EML,Pleno,PR15,20,73
+MA1588,Engenheiro de Machine Learning,EML,Pleno,PR20,30,73
+MA1588,Engenheiro de Machine Learning,EML,Pleno,PR32,12,73
+MA1004,Cientista de Dados,Cientista,Junior,PR26,23,102
+MA1004,Cientista de Dados,Cientista,Junior,PR15,12,102
+MA7025,Engenheiro de Dados,Engenheiro,Pleno,PR31,29,70
+MA7025,Engenheiro de Dados,Engenheiro,Pleno,PR24,16,70
+MA4602,Engenheiro de Dados,Engenheiro,Especialista,PR7,18,134
+MA8815,Engenheiro de Dados,Engenheiro,Tech Lead,PR21,24,104
+MA8815,Engenheiro de Dados,Engenheiro,Tech Lead,PR39,30,104
+MA8815,Engenheiro de Dados,Engenheiro,Tech Lead,PR25,14,104
+MA1998,Cientista de Dados,Cientista,Pleno,PR25,18,81
+MA1998,Cientista de Dados,Cientista,Pleno,PR32,17,81
+MA1998,Cientista de Dados,Cientista,Pleno,PR16,28,81
+MA1998,Cientista de Dados,Cientista,Pleno,PR26,30,81
+MA5753,Engenheiro de Dados,Engenheiro,Pleno,PR26,27,71
+MA5753,Engenheiro de Dados,Engenheiro,Pleno,PR24,17,71
+MA5753,Engenheiro de Dados,Engenheiro,Pleno,PR40,15,71
+MA5753,Engenheiro de Dados,Engenheiro,Pleno,PR2,23,71
+MA5344,Cientista de Dados,Cientista,Pleno,PR33,10,111
+MA5344,Cientista de Dados,Cientista,Pleno,PR40,14,111
+MA5344,Cientista de Dados,Cientista,Pleno,PR26,20,111
+MA5000,Engenheiro de Dados,Engenheiro,Pleno,PR25,26,96
+MA9875,Engenheiro de Dados,Engenheiro,Pleno,PR23,10,109
+MA6221,Analista de Dados,Analista,Senior,PR36,19,65
+MA6221,Analista de Dados,Analista,Senior,PR26,21,65
+MA6221,Analista de Dados,Analista,Senior,PR12,20,65
+MA5053,Cientista de Dados,Cientista,Pleno,PR32,26,66
+MA5053,Cientista de Dados,Cientista,Pleno,PR29,19,66
+MA5053,Cientista de Dados,Cientista,Pleno,PR12,20,66
+MA7678,Engenheiro de Machine Learning,EML,Pleno,PR22,26,61
+MA7250,Engenheiro de Dados,Engenheiro,Senior,PR40,27,75
+MA3581,Engenheiro de Machine Learning,EML,Pleno,PR29,26,40
+MA3581,Engenheiro de Machine Learning,EML,Pleno,PR17,16,40
+MA3581,Engenheiro de Machine Learning,EML,Pleno,PR35,27,40
+MA3581,Engenheiro de Machine Learning,EML,Pleno,PR13,21,40
+MA8112,Analista de Dados,Analista,Tech Lead,PR39,19,113
+MA8112,Analista de Dados,Analista,Tech Lead,PR40,32,113
+MA1667,Engenheiro de Dados,Engenheiro,Pleno,PR36,37,81
+MA1667,Engenheiro de Dados,Engenheiro,Pleno,PR32,18,81
+MA1667,Engenheiro de Dados,Engenheiro,Pleno,PR25,11,81
+MA4092,Cientista de Dados,Cientista,Junior,PR39,13,56
+MA4092,Cientista de Dados,Cientista,Junior,PR25,12,56
+MA1770,Cientista de Dados,Cientista,Pleno,PR27,23,87
+MA1770,Cientista de Dados,Cientista,Pleno,PR36,11,87
+MA1770,Cientista de Dados,Cientista,Pleno,PR21,20,87
+MA9019,Engenheiro de Machine Learning,EML,Junior,PR26,19,45
+MA3573,Engenheiro de Dados,Engenheiro,Pleno,PR32,14,79
+MA7631,Engenheiro de Dados,Engenheiro,Pleno,PR5,10,120
+MA7631,Engenheiro de Dados,Engenheiro,Pleno,PR40,15,120
+MA7631,Engenheiro de Dados,Engenheiro,Pleno,PR34,13,120
+MA6710,Engenheiro de Machine Learning,EML,Pleno,PR40,11,73
+MA6710,Engenheiro de Machine Learning,EML,Pleno,PR40,12,73
+MA6931,Cientista de Dados,Cientista,Pleno,PR31,10,98
+MA6931,Cientista de Dados,Cientista,Pleno,PR39,15,98
+MA6500,Cientista de Dados,Cientista,Pleno,PR36,33,115
+MA6500,Cientista de Dados,Cientista,Pleno,PR26,11,115
+MA6500,Cientista de Dados,Cientista,Pleno,PR15,26,115
+MA6500,Cientista de Dados,Cientista,Pleno,PR14,33,115
+MA7697,Cientista de Dados,Cientista,Senior,PR30,10,97
+MA7829,Engenheiro de Dados,Engenheiro,Junior,PR15,34,95
+MA7829,Engenheiro de Dados,Engenheiro,Junior,PR25,19,95
+MA7829,Engenheiro de Dados,Engenheiro,Junior,PR25,13,95
+MA9339,Cientista de Dados,Cientista,Pleno,PR17,29,120
+MA9339,Cientista de Dados,Cientista,Pleno,PR38,37,120
+MA9339,Cientista de Dados,Cientista,Pleno,PR21,15,120
+MA4792,Engenheiro de Dados,Engenheiro,Especialista,PR25,13,80
+MA4792,Engenheiro de Dados,Engenheiro,Especialista,PR20,33,80
+MA4792,Engenheiro de Dados,Engenheiro,Especialista,PR22,23,80
+MA4792,Engenheiro de Dados,Engenheiro,Especialista,PR26,34,80
+MA5527,Analista de Dados,Analista,Senior,PR2,19,78
+MA8264,Engenheiro de Machine Learning,EML,Senior,PR11,20,107
+MA7753,Engenheiro de Dados,Engenheiro,Pleno,PR11,21,106
+MA2919,Engenheiro de Dados,Engenheiro,Pleno,PR34,23,110
+MA2919,Engenheiro de Dados,Engenheiro,Pleno,PR18,39,110
+MA1642,Engenheiro de Dados,Engenheiro,Pleno,PR34,16,89
+MA1642,Engenheiro de Dados,Engenheiro,Pleno,PR3,12,89
+MA1642,Engenheiro de Dados,Engenheiro,Pleno,PR40,18,89
+MA8284,Engenheiro de Dados,Engenheiro,Junior,PR40,37,56
+MA5193,Cientista de Dados,Cientista,Senior,PR40,14,107
+MA5193,Cientista de Dados,Cientista,Senior,PR39,10,107
+MA5193,Cientista de Dados,Cientista,Senior,PR1,25,107
+MA5193,Cientista de Dados,Cientista,Senior,PR36,23,107
+MA4788,Analista de Dados,Analista,Pleno,PR25,13,94
+MA4788,Analista de Dados,Analista,Pleno,PR13,15,94
+MA4788,Analista de Dados,Analista,Pleno,PR15,19,94
+MA8482,Analista de Dados,Analista,Pleno,PR31,15,95
+MA8482,Analista de Dados,Analista,Pleno,PR39,24,95
+MA1280,Cientista de Dados,Cientista,Junior,PR37,21,76
+MA1280,Cientista de Dados,Cientista,Junior,PR7,13,76
+MA2192,Engenheiro de Dados,Engenheiro,Junior,PR20,34,101
+MA2192,Engenheiro de Dados,Engenheiro,Junior,PR15,19,101
+MA3218,Cientista de Dados,Cientista,Pleno,PR22,16,64
+MA3218,Cientista de Dados,Cientista,Pleno,PR13,19,64
+MA3218,Cientista de Dados,Cientista,Pleno,PR1,14,64
+MA5011,Engenheiro de Dados,Engenheiro,Junior,PR17,19,50
+MA5011,Engenheiro de Dados,Engenheiro,Junior,PR25,28,50
+MA5011,Engenheiro de Dados,Engenheiro,Junior,PR40,11,50
+MA3139,Engenheiro de Machine Learning,EML,Junior,PR26,22,94
+MA6513,Cientista de Dados,Cientista,Pleno,PR22,12,120
+MA6513,Cientista de Dados,Cientista,Pleno,PR39,21,120
+MA6588,Engenheiro de Dados,Engenheiro,Junior,PR21,20,51
+MA9623,Analista de Dados,Analista,Pleno,PR14,17,101
+MA9623,Analista de Dados,Analista,Pleno,PR7,20,101
+MA9623,Analista de Dados,Analista,Pleno,PR31,37,101
+MA5540,Engenheiro de Dados,Engenheiro,Junior,PR24,23,73
+MA5462,Engenheiro de Machine Learning,EML,Pleno,PR11,16,77

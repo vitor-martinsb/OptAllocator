@@ -1,0 +1,6 @@
+PROJETO_ID,CARGO,SETOR,CLASSE,QUANTIDADE,HORAS,PROJETOS,CUSTO
+PROJETO_INTER,Cientista de Dados,Cientista,Pleno,2,120,40,300
+PROJETO_INTER,Engenheiro de Machine Learning,EML,Senior,1,120,40,300
+PROJETO_MERCANTIL,Engenheiro de Dados,Engenheiro,Pleno,2,120,40,300
+PROJETO_ZELO,Cientista de Dados,Cientista,Pleno,1,120,40,300
+PROJETO_ZELO,Analista de Dados,Analista,Pleno,1,120,40,300
